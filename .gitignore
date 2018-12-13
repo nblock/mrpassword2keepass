@@ -1,2 +1,3 @@
-run
+*.kdbx
 .python-version
+run
